@@ -1,6 +1,6 @@
 # NineNineMultiTable
-This java program output the 9x9 multipication table
-Sample Output: 
+This java program output the 9x9 multipication table                    
+Sample Output:                 
 1*1=1
 1*2=2
 1*3=3
